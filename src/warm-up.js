@@ -24,7 +24,7 @@ pages = pages * .25;
 
 
 // Initialize a new variable "movie", but leave it undefined
-var movie =
+var movie;
 
 
 // Create a variable named "sequel", and assign it to a be a sequel of your
